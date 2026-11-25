@@ -8,4 +8,4 @@ Extracted with pocket-extractor (no sign-in, no deploy). Single self-contained a
 
 site/index.html is the deployable page: every external asset URL has been replaced with a relative assets/... path, and no fbcdn/fbsbx/scontent reference remains.
 
-NOT YET PUBLISHED — deploying to GitHub Pages is a separate step and requires Johnny's rights confirmation first.
+Published to GitHub Pages: https://xerohour.github.io/huss-huss-huss/ (repo xerohour/huss-huss-huss).
